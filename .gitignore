@@ -1,4 +1,0 @@
-*.pyc
-__pycache__/
-config.py
-migrations/alembic.ini
